@@ -1,0 +1,5 @@
+<resources>
+    <declare-styleable name="LinedEditText">
+        <attr name="lined" format="boolean" />
+    </declare-styleable>
+</resources>

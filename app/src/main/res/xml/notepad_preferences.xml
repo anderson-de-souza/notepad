@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <EditTextPreference
+        android:id="@+id/note_key"
+        android:title="Note Key"
+        android:summary="key used to lock and unlock the notes"
+        android:inputType="numberPassword"
+        android:maxLength="4"
+        android:icon="@drawable/ic_key"
+        android:key="note_key" />
+
+</PreferenceScreen>

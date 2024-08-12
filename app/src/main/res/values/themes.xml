@@ -1,0 +1,27 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <!-- Base application theme. -->
+
+    <style name="Base.Theme.Notepad" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+    </style>
+
+    <style name="Theme.Notepad" parent="Base.Theme.Notepad">
+        <item name="windowActionModeOverlay">true</item>
+        <item name="actionModeStyle">@style/action_mode_style</item>
+    </style>
+
+    <style name="ThemeEditText">
+
+        <item name="android:textCursorDrawable">@null</item>
+        <item name="android:textColorHighlight">?attr/colorOnPrimaryFixedVariant</item>
+        <item name="colorControlActivated">?attr/colorOnPrimaryFixedVariant</item>
+
+    </style>
+
+    <style name="action_mode_style" parent="@style/Widget.Material3.ActionMode">
+        <item name="background">?attr/colorPrimary</item>
+    </style>
+
+</resources>

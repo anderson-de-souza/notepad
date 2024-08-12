@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Notepad</string>
+    <string name="all_notes">All Notes</string>
+    <string name="lock_notes">Lock Notes</string>
+    <string name="favorite_notes">Favorite Notes</string>
+    <string name="drawer_is_open">The Navigation Drawer Is Open</string>
+    <string name="drawer_is_close">The Navigation Drawer Is Closed</string>
+    <string name="no_content"></string>
+    <string name="untitled">Untitled</string>
+    <string name="date_time_pattern">MM/dd/yyyy \'at\' hh:mm a</string>
+    <string name="favorite">Favorite</string>
+    <string name="add_in_favorites_list">Add In Favorites List</string>
+    <string name="remove_from_favorites_list">Remove From Favorites List</string>
+    <string name="lock_note">Lock Note</string>
+    <string name="unlock_note">Unlock Note</string>
+    <string name="delete">Delete</string>
+    <string name="settings">Settings</string>
+    <string name="message_on_delete">Are you sure? Will not posible retrieve this one again.</string>
+    <string name="ok">Ok</string>
+    <string name="cancel">Cancel</string>
+    <string name="nothing_was_found">Nothing was found</string>
+    <string name="message_on_lock">You haven\'t created the note key yet, how about creating one so you can lock it</string>
+    <string name="yes">Yes</string>
+    <string name="note_key">Note Key</string>
+    <string name="enter">Enter</string>
+    <string name="message_key_typed_error">Invalid Key</string>
+    <string name="dialog_title_to_lock_note_clicked">Type The Key</string>
+    <string name="select_all_items">Select All Items</string>
+    <string name="delete_all_selected_items">Delete All Selected Items</string>
+    <string name="deselect_all_items">Deselect All Items</string>
+    <string name="x_items_selecteds" formatted="false">%s selected items</string>
+</resources>
